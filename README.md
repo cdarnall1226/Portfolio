@@ -5,7 +5,7 @@ The project was initially proposed as a interactive movie experience using Unrea
 This would be known as The School Spirit, as the name of the movie.
 
 Shortly after development began on School Spirit, the team and I wanted to develop a multiplayer shooter experience, which would become Steel Nightmare.
-While neither of these projects moved beyond Pre-Alpha, School Spirit would be picked up by the following years team to develop upon further and refined to a more polished state.
+While neither of these projects moved beyond Pre-Alpha, School Spirit would be picked up by the following year's team to develop upon further and refined to a more polished state.
 I would help contribute guidance and resources for the next team on the development of School Spirit during the fall semester of 2024, up until my graduation.
 
 These projects served as incredible experience in not only gaining experience developing in Unreal Engine, but also experience working in a team environment through the development process.
